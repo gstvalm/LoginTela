@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tela deLogin</string>
+    <string name="hint_email">E-mail</string>
+    <string name="hint_senha">Senha</string>
+    <string name="txt_button_entrar">Entrar</string>
+    <string name="txt_tela_cadastro">Não possui conta? Cadastre-se!</string>
+    <string name="registre_se">Registre-se</string>
+    <string name="n_mero_de_celular_opcional">Número de Celular (Opcional)</string>
+    <string name="rm">RM</string>
+    <string name="nome">Nome</string>
+</resources>
